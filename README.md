@@ -1,7 +1,7 @@
 # ICS2O-assignment-4-html
 
-[![GitHub's Super Linter](https://github.com/Curtis-Edwards/ASSIGNMENT-04/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Curtis-Edwards/ASSIGNMENT-04/actions)
+[![GitHub's Super Linter](https://github.com/Titus-diceman/ICS2O-assignment-4-html/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Titus-diceman/ICS2O-assignment-4-html/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/Curtis-Edwards/ASSIGNMENT-04)](https://repl.it/github/Curtis-Edwards/ASSIGNMENT-04)
+[![Run on Repl.it](https://repl.it/badge/github/Titus-diceman/ICS2O-assignment-4-html)](https://repl.it/github/Titus-diceman/ICS2O-assignment-4-html)
 
-This site can be found at: [https://Curtis-Edwards.github.io/ASSIGNMENT-04](https://Curtis-Edwards.github.io/ASSIGNMENT-04)
+This site can be found at: [https://Titus-diceman.github.io/ICS20-assignment-4-html](https://Titus-diceman.github.io/ICS20-assignment-4-html)
